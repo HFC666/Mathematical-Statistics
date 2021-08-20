@@ -1,3 +1,5 @@
-# Headline
+# Introduction to Mathematical Statistics
 
-> An awesome project.
+![](image/cover.png)
+
+笔记基于上述教材。
