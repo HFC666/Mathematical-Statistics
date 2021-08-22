@@ -4,8 +4,9 @@
 
 > 书籍 `Introduction to Mathematical Statistics` 读书笔记
 
-[GitHub](https://github.com/HFC666/Mathematical-Statistics.git)
-[Get Started](#数理统计)
+[GitHub](https://github.com/HFC666/Mathematical-Statistics.git) [Get Started](#数理统计) [blog](https://hfcouc.work/)
+
+
 
 
 
